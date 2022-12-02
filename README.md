@@ -1,1 +1,0 @@
-Continuamos interiorizandonos en git y github con el objetivo de aprender desarrollo web y convertirnos en grandes programadores, lo lograremos!
